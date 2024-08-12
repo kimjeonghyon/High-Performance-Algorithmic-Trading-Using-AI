@@ -1,6 +1,6 @@
 # High-Performance Algorithmic Trading Using AI
 
-Strategies and insights for developing cutting-edge trading algorithms
+Strategies and insights for developing cutting-edge trading algorithms.
 
 This is the repository for [High-Performance Algorithmic Trading Using AI
 ](https://bpbonline.com/products/high-performance-algorithmic-trading-using-ai?variant=44014301085896),published by BPB Publications.
